@@ -8,22 +8,22 @@ grande facilidade para aprendizagem e utilização de novas tecnologias.
 ### Formação Acadêmica
 #### Bacharelado em Ciência da Computação
 Instituto Federal de Brasília (IFB)
-#### Período: 2° semestre
-#### Previsão de conclusão: dezembro de 2029
+- Período: 2° semestre
+- Previsão de conclusão: dezembro de 2029
 #### Ensino Médio Completo
 Colégio Militar Dom Pedro II
 
 ### Projetos
-https://github.com/amatsuisoares/MyPetGame/tree/main
+- https://github.com/amatsuisoares/MyPetGame/tree/main
 
 
 ### Habilidades Técnicas
-Programação em C
-Programação em Python
-Domínio do Microsoft Office (Word, Excel e PowerPoint)
-Facilidade com aprendizado e adaptação a novas tecnologias
-Organização e comprometimento com prazos e qualidade
+- Programação em C
+- Programação em Python
+- Domínio do Microsoft Office (Word, Excel e PowerPoint)
+- Facilidade com aprendizado e adaptação a novas tecnologias
+- Organização e comprometimento com prazos e qualidade
 
 ### Idiomas
-Inglês: Fluente
-Espanhol: Intermediário
+- Inglês: Fluente
+- Espanhol: Intermediário
