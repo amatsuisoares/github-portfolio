@@ -14,16 +14,16 @@ Instituto Federal de Brasília (IFB)
 Colégio Militar Dom Pedro II
 
 ### Projetos
--projeto 1
+https://github.com/amatsuisoares/MyPetGame/tree/main
 
 
 ### Habilidades Técnicas
-#● Programação em C
-#● Programação em Python
-#● Domínio do Microsoft Office (Word, Excel e PowerPoint)
-#● Facilidade com aprendizado e adaptação a novas tecnologias
-#● Organização e comprometimento com prazos e qualidade
+Programação em C
+Programação em Python
+Domínio do Microsoft Office (Word, Excel e PowerPoint)
+Facilidade com aprendizado e adaptação a novas tecnologias
+Organização e comprometimento com prazos e qualidade
 
 ### Idiomas
-#● Inglês: Fluente
-#● Espanhol: Intermediário
+Inglês: Fluente
+Espanhol: Intermediário
