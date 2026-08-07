@@ -14,7 +14,7 @@ Instituto Federal de Brasília (IFB)
 Colégio Militar Dom Pedro II
 
 ### Projetos
-- https://github.com/amatsuisoares/MyPetGame/tree/main
+- [Jogo de simulador de pet feito em C com Raylib] (https://github.com/amatsuisoares/MyPetGame/tree/main)
 
 
 ### Habilidades Técnicas
