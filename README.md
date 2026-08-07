@@ -1,4 +1,4 @@
-# [Seu Nome] — Estudante de Ciência da Computação
+# Estudante de Ciência da Computação
 
 Buscando oportunidade de estágio na área de Ciências da Computação.
 
@@ -16,7 +16,7 @@ Estudante de Bacharelado em Ciência da Computação, com sólida base acadêmic
 ## Projetos
 
 **[Meu Pet Virtual](https://github.com/amatsuisoares/MyPetGame)**
-Simulador de bichinho virtual (estilo Tamagotchi) feito em C com [raylib](https://www.raylib.com/): sistema de evolução em três estágios, ciclo de dia/noite, cuidados (fome, saúde, disciplina, doença) e port para Android.
+Simulador de bichinho virtual (estilo Tamagotchi) feito em C com [raylib](https://www.raylib.com/): sistema de múltiplas evoluções, ciclo de dia/noite, cuidados (fome, saúde, disciplina, doença) e port para Android.
 
 ## Habilidades Técnicas
 
