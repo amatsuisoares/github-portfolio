@@ -18,12 +18,12 @@ Colégio Militar Dom Pedro II
 
 
 ### Habilidades Técnicas
-● Programação em C
-● Programação em Python
-● Domínio do Microsoft Office (Word, Excel e PowerPoint)
-● Facilidade com aprendizado e adaptação a novas tecnologias
-● Organização e comprometimento com prazos e qualidade
+#● Programação em C
+#● Programação em Python
+#● Domínio do Microsoft Office (Word, Excel e PowerPoint)
+#● Facilidade com aprendizado e adaptação a novas tecnologias
+#● Organização e comprometimento com prazos e qualidade
 
 ### Idiomas
-● Inglês: Fluente
-● Espanhol: Intermediário
+#● Inglês: Fluente
+#● Espanhol: Intermediário
