@@ -1,29 +1,32 @@
-### Objetivo
-Estágio na área de Ciências da Computação
+# [Seu Nome] — Estudante de Ciência da Computação
 
-### Resumo Profissional
-Estudante de Bacharelado em Ciência da Computação, com sólida base acadêmica e
-grande facilidade para aprendizagem e utilização de novas tecnologias.
+Buscando oportunidade de estágio na área de Ciências da Computação.
 
-### Formação Acadêmica
-#### Bacharelado em Ciência da Computação
-Instituto Federal de Brasília (IFB)
-- Período: 2° semestre
-- Previsão de conclusão: dezembro de 2029
-#### Ensino Médio Completo
-Colégio Militar Dom Pedro II
+## Resumo Profissional
 
-### Projetos
-- [Jogo de simulador de pet feito em C com Raylib] (https://github.com/amatsuisoares/MyPetGame/tree/main)
+Estudante de Bacharelado em Ciência da Computação, com sólida base acadêmica e grande facilidade para aprendizagem e utilização de novas tecnologias.
 
+## Formação Acadêmica
 
-### Habilidades Técnicas
-- Programação em C
-- Programação em Python
-- Domínio do Microsoft Office (Word, Excel e PowerPoint)
-- Facilidade com aprendizado e adaptação a novas tecnologias
-- Organização e comprometimento com prazos e qualidade
+**Bacharelado em Ciência da Computação** — Instituto Federal de Brasília (IFB)
+2º semestre · previsão de conclusão em dezembro de 2029
 
-### Idiomas
-- Inglês: Fluente
-- Espanhol: Intermediário
+**Ensino Médio Completo** — Colégio Militar Dom Pedro II
+
+## Projetos
+
+**[Meu Pet Virtual](https://github.com/amatsuisoares/MyPetGame)**
+Simulador de bichinho virtual (estilo Tamagotchi) feito em C com [raylib](https://www.raylib.com/): sistema de evolução em três estágios, ciclo de dia/noite, cuidados (fome, saúde, disciplina, doença) e port para Android.
+
+## Habilidades Técnicas
+
+| Área | Detalhes |
+|---|---|
+| Linguagens de programação | C, Python |
+| Ferramentas de escritório | Microsoft Office (Word, Excel, PowerPoint) |
+| Perfil | Aprendizado rápido de novas tecnologias · organização e comprometimento com prazos e qualidade |
+
+## Idiomas
+
+- **Inglês** — Fluente
+- **Espanhol** — Intermediário
